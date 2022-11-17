@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "",
+  "homepage": "https://paolagutierz.github.io/personal/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/paolagutierz/personal.git"
   },
   "engines": {
     "node": ">=14.x"
